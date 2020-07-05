@@ -1,7 +1,13 @@
 # Twitch Chat
 
-Experimental project to monitor Twitch chat messages and show them on a stream with
-OBS.
+Experimental project to monitor [Twitch](https://tiwtch.tv) chat messages and show them
+on a stream with [OBS Studio](https://obsproject.com/).
+
+## References
+
+- This script was highly based on [Erika Heidi](https://github.com/erikaheidi) work on [Creating a Twitch / IRC chatbot in PHP with Minicli](https://dev.to/erikaheidi/creating-a-twitch-irc-chatbot-in-php-with-minicli-45mo).
+- [Twitch guide Chatbots & IRC](https://dev.twitch.tv/docs/irc/guide)
+- [IRC RFC 1459](https://tools.ietf.org/html/rfc1459.html)
 
 ## How it works
 
